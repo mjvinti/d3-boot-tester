@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React + D3 Tester
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It's intended to be a simple playground for integrating React w/ D3.js
 
 ## Available Scripts
 
